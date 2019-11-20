@@ -10,6 +10,9 @@ class App extends React.Component {
       <div>
         <h3>Counter</h3>
         <Counter {...this.props} />
+        <div>
+          yo
+        </div>
       </div>
     );
   }
